@@ -11,7 +11,7 @@
   - Transpiling: babel
   - Unit Tests: Mocha / JSDOM
   - Continuous Integration: Travis-CI (for linux/OSX) and appveyor (for windows)
-  - HTTP: Currently fetch, probably something different once Vue is in
+  - HTTP: Fetch
     - Mocking: Json Server w/ Json Schema Faker
   - Production Deployment: Surge
   
