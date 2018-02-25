@@ -1,4 +1,5 @@
-
+## General
+  This is a project which can be used as a spin up for javascript projects. The choices made to create this project are listed below. Note that there are no specific general libraries included. A fork of the repo using Vue can be found at: https://github.com/qwoodmansee/qw_vue_starter_kit/
 
 ## Important decisions chosen:
   - Editor: VS Code with editorconfig extension
